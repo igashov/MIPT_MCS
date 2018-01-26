@@ -1,0 +1,97 @@
+threads: 1
+ time: 0.599769
+result: 14120102
+threads: 2
+ time: 0.275416
+result: 14120102
+threads: 3
+ time: 0.225445
+result: 14120102
+threads: 4
+ time: 0.193772
+result: 14120102
+threads: 5
+ time: 0.165850
+result: 14120102
+threads: 6
+ time: 0.152373
+result: 14120102
+threads: 7
+ time: 0.150367
+result: 14120102
+threads: 8
+ time: 0.105601
+result: 14120102
+threads: 9
+ time: 0.130934
+result: 14120102
+threads: 10
+ time: 0.137256
+result: 14120102
+threads: 11
+ time: 0.132609
+result: 14120102
+threads: 12
+ time: 0.127501
+result: 14120102
+threads: 13
+ time: 0.129844
+result: 14120102
+threads: 14
+ time: 0.126931
+result: 14120102
+threads: 15
+ time: 0.126922
+result: 14120102
+threads: 16
+ time: 0.125990
+result: 14120102
+threads: 17
+ time: 0.126945
+result: 14120102
+threads: 18
+ time: 0.127015
+result: 14120102
+threads: 19
+ time: 0.126688
+result: 14120102
+threads: 20
+ time: 0.133003
+result: 14120102
+threads: 21
+ time: 0.129098
+result: 14120102
+threads: 22
+ time: 0.123527
+result: 14120102
+threads: 23
+ time: 0.130136
+result: 14120102
+threads: 24
+ time: 0.142065
+result: 14120102
+threads: 25
+ time: 0.166644
+result: 14120102
+threads: 26
+ time: 0.144587
+result: 14120102
+threads: 27
+ time: 0.137855
+result: 14120102
+threads: 28
+ time: 0.189654
+result: 14120102
+threads: 29
+ time: 0.176143
+result: 14120102
+threads: 30
+ time: 0.192831
+result: 14120102
+threads: 31
+ time: 0.182457
+result: 14120102
+threads: 32
+ time: 0.398604
+result: 14120102
+b10
